@@ -18,6 +18,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/manuel-guilbault/knockout.google.maps/"
+    "url": "https://github.com/Conventionify/knockout.google.maps"
+  },
+  "dependencies": {
+    "knockout": "*"
   }
 }

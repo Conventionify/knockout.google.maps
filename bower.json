@@ -1,0 +1,23 @@
+{
+  "name": "knockout.google.maps",
+  "description": "Knockout bindings for Google Maps, to make view models completely independent from presentation.",
+  "main": "dist/knockout.google.maps-0.2.0.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_modules",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuel-guilbault/knockout.google.maps/"
+  }
+}
